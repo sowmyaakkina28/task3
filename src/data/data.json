@@ -1,0 +1,27 @@
+{
+    "profile":[   
+   {
+    "basics":{
+     "name":"Hanu",
+     "role":"MERN",
+     "phone":"9817214312",
+     "email":"haun@apssdc.in"
+    },
+    "career":"i' want to expore my entire knowledge to give better O/p or solution"
+
+   },
+
+
+   {
+    "basics":{
+     "name":"Swami",
+     "role":"React Developer",
+     "phone":"8659354324",
+     "email":"swami@apssdc.in"
+    },
+    "career":"i' want to expore my entire knowledge to give better O/p or solution"
+
+   }
+   ]
+}
+   
